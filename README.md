@@ -19,8 +19,8 @@ Aqui estão algumas das tecnologias com as quais trabalho ou estou aprendendo:
 
 ### Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=k1ngll&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=k1ngll&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngll&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngll&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
